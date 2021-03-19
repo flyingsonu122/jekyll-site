@@ -21,8 +21,8 @@
 title: Onlyou
 # email: flyingsonu736@gmail.com
 description: The Home of yours
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/jekyll-site" # the subpath of your site, e.g. /blog
+url: "flyingsonu122.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: sonukumarkush12
 github_username: flyingsonu122
 instagram_username: flyingsonu736
